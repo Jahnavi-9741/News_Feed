@@ -19,10 +19,10 @@ A simple full-stack application to search and display real-time news articles ba
 
 ```
 
-localized-news-feed/
+News_Feed/
 │
 ├── index.html        ← Frontend UI (single file with HTML, CSS, JS)
-├── main.py           ← FastAPI backend to fetch news data
+├── main.py         ← FastAPI backend to fetch news data
 ├── README.md         ← This file
 
 ````
@@ -34,8 +34,8 @@ localized-news-feed/
 ### 🔧 1. Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/localized-news-feed.git
-cd localized-news-feed
+git clone https://github.com/your-username/News_Feed.git
+cd News_Feed
 ````
 
 ---
@@ -101,7 +101,6 @@ Returns:
 
 * `articles[]`: List of news items (title, description, url, source)
 
----
 
 ## 📌 Technologies Used
 
@@ -110,19 +109,12 @@ Returns:
 * **News Provider**: [NewsAPI.org](https://newsapi.org)
 * **Deployment Ready**: Portable HTML and backend
 
----
+
 
 ## 🛡️ License
 
 This project is licensed under the [MIT License](LICENSE).
 
----
 
-## 🙋‍♂️ Author
-
-Developed by **\[Your Name]**
-Feel free to contribute or open issues!
-
-```
 
 
