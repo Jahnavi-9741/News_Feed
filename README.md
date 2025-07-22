@@ -79,7 +79,9 @@ Open the `index.html` file directly in your browser.
 
 ## 🖼️ Demo Screenshot
 
-![screenshot](https://via.placeholder.com/800x400.png?text=Localized+News+Feed+Demo)
+<img width="1336" height="1518" alt="image" src="https://github.com/user-attachments/assets/d97e3eca-7385-4768-8b42-1a5b2bfee139" />
+<img width="1330" height="1496" alt="image" src="https://github.com/user-attachments/assets/fd26531d-4bf3-4b0e-afb1-8d0b7b91ceb7" />
+
 
 ---
 
